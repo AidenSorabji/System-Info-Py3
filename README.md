@@ -1,5 +1,5 @@
 # System-Info - Py3
-A cool little python script that can read your system, and network and give that info to you
+A cool little python script that can read your system, and network and give that info to you.
 
 # Compatability
 This python code works, and works only with python 3 - was tested on python 3.10, so not sure if it will work with earlier versions.
