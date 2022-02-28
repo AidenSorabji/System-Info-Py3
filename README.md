@@ -21,13 +21,13 @@ And more! - If you want to see other commands, you can now type `cmds` to see th
 # Help
 If you are encountering issues, please try to following:
 
-**Re-download the code**
+- **Re-download the code**
 
-**Make sure your on the right version of python**
+- **Make sure your on the right version of python**
 
-**Make sure your using a proper IDE**
+- **Make sure your using a proper IDE**
 
-~One of the causes of the python script not working or not working *properly* is if you are running the script in terminal. If you are running it in terminal, the python code will not work (for some reason lmao).~
+- ~One of the causes of the python script not working or not working *properly* is if you are running the script in terminal. If you are running it in terminal, the python code will not work (for some reason lmao).~
 
 **You can now use it in terminal lmao, just type the following command (for macOS users only)** `python3 *directory of py file*`
 
