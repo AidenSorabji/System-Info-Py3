@@ -16,6 +16,8 @@ This python code works, and works only with python 3 - was tested on python 3.10
 
 *win_ed* - Tells you your windows edition (ex. enterprise)
 
+And more! - If you want to see other commands, you can now type "*cmds*" to see the other commands you can do.
+
 # Help
 If you are encountering issues, please try to following:
 
@@ -25,7 +27,9 @@ If you are encountering issues, please try to following:
 
 **Make sure your using a proper IDE**
 
-One of the causes of the python script not working or not working *properly* is if you are running the script in terminal. If you are running it in terminal, the python code will not work (for some reason lmao).
+~One of the causes of the python script not working or not working *properly* is if you are running the script in terminal. If you are running it in terminal, the python code will not work (for some reason lmao).~
+
+You can now use it in terminal lmao, just type the following command (for macOS users only) "python3 *directory of py file*"
 
 # Credit
 Please, when modifying this code, or uploading this code, or doing anything else with this code, give me credit, thanks!
