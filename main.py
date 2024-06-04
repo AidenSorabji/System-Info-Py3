@@ -1,6 +1,3 @@
-# System info
-
-# Created by SpaceN64
 # 2022, V1.0
 
 vrs = "1.1"
